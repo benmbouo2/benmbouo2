@@ -1,5 +1,5 @@
-Hi I am Ben Mbouombouo, founder of a starup in the bayarea.
-Already applying deep learning in our embedded systems for health monitoring.
+Hi I am Ben Mbouombouo, co-founder of a starups in Silicon Valley.
+Already applying AI/ML in our embedded systems for health monitoring using available CPUs and other peripherals
 Also developing NPU chips for consumer and wearable devices and applications for AI/ML on the edges for all various AI/ML architectures:
 | Architecture      | Typical Use                | Edge Platform/Framework              | Notes/Performance          |
 | ----------------- | -------------------------- | ------------------------------------ | -------------------------- |

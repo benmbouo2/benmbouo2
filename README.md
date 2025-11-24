@@ -5,7 +5,7 @@ Also developing NPU chips for consumer and wearable devices and applications for
 | ----------------- | -------------------------- | ------------------------------------ | -------------------------- |
 | 1D-CNN/TinyML CNN | Biosignal classification   | TF Lite Micro, Edge Impulse          | Best for PPG, ECG, HRV     |
 | LSTM/GRU          | Time-series/sequence       | TF Lite Micro, PyTorch Mobile        | Fall, arrhythmia, activity |
-| RF/DT/SVM         | Fast, low-power decisions  | scikit-learn, SensiML, TF Lite Micro | Hydration, anomaly         |
+| RFR/DT/SVM        | Fast, low-power decisions  | scikit-learn, SensiML, TF Lite Micro | Hydration, anomaly         |
 | Hybrid CNN-LSTM   | Multimodal fusion          | TF Lite Micro, custom hardware       | Multi-sensor wearable      |
 | Tiny Transformer  | Trend analysis, adaptation | TF Lite Micro, HW accelerator        | Growing, sleep/EEG/MSD     |
 | Neuromorphic      | Always-on, ultra-low-power | Ambiq, BrainChip, hardware           | Emerging, ppmW IoT/sensors |
